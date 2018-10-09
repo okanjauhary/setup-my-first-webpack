@@ -1,0 +1,17 @@
+$warna : rgb(225, 255, 238);
+
+body{
+    background-color:$warna;
+    h1{
+        color: rgb(86, 128, 104);
+        font-size: 4rem;
+        font-family: sans-serif;
+        font-weight: normal;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        filter: blur(2)
+    }
+}
+
