@@ -1,7 +1,7 @@
 body {
-  background-color: #e1ffee; }
+  background-color: #c0feab; }
   body h1 {
-    color: #568068;
+    color: #5ecc57;
     font-size: 4rem;
     font-family: sans-serif;
     font-weight: normal;
@@ -9,7 +9,5 @@ body {
     top: 50%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
-            transform: translate(-50%, -50%);
-    -webkit-filter: blur(2);
-            filter: blur(2); }
+            transform: translate(-50%, -50%); }
 

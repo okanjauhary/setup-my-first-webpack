@@ -1,4 +1,4 @@
-import './css/style.scss'
+import './css/style.sass'
 
 const tambah = (a, b) => a+b
 
